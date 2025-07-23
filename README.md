@@ -42,7 +42,7 @@ I’m passionate about blending technology with creativity—whether it’s mana
 ### 📫 **Let’s Connect**
 - **LinkedIn:** [linkedin.com/in/raymondhibbs](https://www.linkedin.com/in/raymondhibbs)  
 - **Portfolio:** [hibbs.dev](https://hibbs.dev) _(soon)_  
-- **Email:** raymond@example.com  
+- **Email:** raymond.hibbs@gmail.com 
 
 ---
 
